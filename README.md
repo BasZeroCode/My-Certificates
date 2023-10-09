@@ -38,9 +38,9 @@
 | `09` |Soon|  | [AWS Cloud Practitioner Essentials]() | [NTUC LearningHub]()
 | `10` |Soon|  | [System Operations on AWS]() | [NTUC LearningHub]()
 | `11` |Soon|  | [Microsoft Azure Fundamentals]() | [NTUC LearningHub]()
-| `12` |Soon| NTUC LearningHub | [Microsoft Certified Azure Adminstrator]() | [Microsoft Azure]()
-| `13` |Soon| NTUC LearningHub | [AWS Certified Solutions Architect – Associate]() | [AWS]()
-| `14` |Soon| NTUC LearningHub | [AWS SysOps Administrator – Associate]() | [AWS]()
+| `12` |Soon|  | [Microsoft Certified Azure Adminstrator]() | [Microsoft Azure]()
+| `13` |Soon|   | [AWS Certified Solutions Architect – Associate]() | [AWS]()
+| `14` |Soon|   | [AWS SysOps Administrator – Associate]() | [AWS]()
 
 
 
