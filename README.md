@@ -10,7 +10,7 @@
 | `03` |Completed| Coursera | [IT Security: Defense against the digital dark arts](https://www.coursera.org/account/accomplishments/verify/QGRKRZE9AK2N?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Dcourse) | [Google](https://github.com/BasZeroCode/My-Certificates/blob/main/Google%20IT%20Support/IT%20Security%20Defense%20against%20the%20digital%20dark%20arts.pdf)
 | `04` |Completed| Coursera | [Operating Systems and You: Becoming a Power User](https://www.coursera.org/account/accomplishments/verify/8UCLEFQ78GWA?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Dcourse) | [Google](https://github.com/BasZeroCode/My-Certificates/blob/main/Google%20IT%20Support/Operating%20Systems%20and%20You%20Becoming%20a%20Power.pdf)
 | `05` |Completed| Coursera | [System Administration and IT Infrastructure Services](https://www.coursera.org/account/accomplishments/verify/WYBFD5K7BPUB?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Dcourse) | [Google](https://github.com/BasZeroCode/My-Certificates/blob/main/Google%20IT%20Support/System%20Administration%20and%20IT%20Infrastructure.pdf)
-| `06` |Completed| Coursera | [Google IT Support Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/DWKHZVN8XDAR) | [Google]()
+| `06` |Completed| Coursera | [Google IT Support Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/DWKHZVN8XDAR) | [Google](https://github.com/BasZeroCode/My-Certificates/blob/main/Google%20IT%20Support/Google%20IT%20Support%20Certificate.pdf)
 | `07` |Completed| Coursera | [Foundation of Cybersecurity](https://www.coursera.org/account/accomplishments/verify/LWDFR6MJWGHN?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Dcourse) | [Google](https://github.com/BasZeroCode/My-Certificates/blob/main/Google%20Cybersecurity/Foundations%20of%20Cybersecurity.pdf)
 | `08` |Completed| Coursera | [Play It Safe: Manage Security Risks](https://www.coursera.org/account/accomplishments/verify/2ZBN63K7U7TZ?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Dcourse) | [Google](https://github.com/BasZeroCode/My-Certificates/blob/main/Google%20Cybersecurity/Play%20It%20Safe%20Manage%20Security%20Risks.pdf)
 | `09` |Completed| Coursera | [Connect and Protect: Networks and Network Security](https://www.coursera.org/account/accomplishments/verify/JR32ZUP5GP5P?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Dcourse) | [Google](https://github.com/BasZeroCode/My-Certificates/blob/main/Google%20Cybersecurity/Connect%20and%20Protect%20Networks%20and%20Network%20Security.pdf)
@@ -19,7 +19,7 @@
 | `12` |Completed| Coursera | [Sound the Alarm: Detection and Response](https://www.coursera.org/account/accomplishments/verify/94RSQDYKE8UN) | [Google](https://github.com/BasZeroCode/My-Certificates/blob/main/Google%20Cybersecurity/Sound%20the%20Alarm%20Detection%20and%20Response.pdf)
 | `13` |Completed| Coursera | [Automate Cybersecurity Tasks with Python](https://www.coursera.org/account/accomplishments/verify/G6FX8TN4TCME) | [Google](https://github.com/BasZeroCode/My-Certificates/blob/main/Google%20Cybersecurity/Automate%20Cybersecurity%20Tasks%20with%20Python.pdf)
 | `14` |Completed| Coursera | [Put It to Work: Prepare for Cybersecurity Jobs](https://www.coursera.org/account/accomplishments/verify/FTWASX7CQAZS) | [Google](https://github.com/BasZeroCode/My-Certificates/blob/main/Google%20Cybersecurity/Put%20It%20to%20Work%20Prepare%20for%20Cybersecurity%20Jobs.pdf)
-| `15` |Completed| Coursera | [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/9TYJPMYXK33B) | [Google]()
+| `15` |Completed| Coursera | [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/9TYJPMYXK33B) | [Google](https://github.com/BasZeroCode/My-Certificates/blob/main/Google%20Cybersecurity/Google%20Cybersecurity%20Certificate.pdf)
 | `16` |Completed| Coursera | [Introduction to Cloud Computing](https://www.coursera.org/account/accomplishments/verify/RZMAC48ZUCVE) | [IBM](https://github.com/BasZeroCode/My-Certificates/blob/main/IBM%20Front-End%20Developer/Introduction%20to%20Cloud%20Computing.pdf)
 | `17` |Completed| Coursera | [Introduction to Software Engineering with Honors](https://www.coursera.org/account/accomplishments/verify/9GJ2VLN6FS2W) | [IBM](https://github.com/BasZeroCode/My-Certificates/blob/main/IBM%20Front-End%20Developer/Introduction%20to%20Software%20Engineering.pdf)
 | `18` |Completed| Coursera | [Introduction to Web Development with HTML, CSS, JavaScript](https://www.coursera.org/account/accomplishments/verify/FESNCHVWTP88) | [IBM](https://github.com/BasZeroCode/My-Certificates/blob/main/IBM%20Front-End%20Developer/Introduction%20to%20Web%20Development%20with%20HTML%2C%20CSS%2C.pdf)
@@ -32,7 +32,20 @@
 | `03` |Soon| Coursera | [Designing User Interfaces and Experiences (UI/UX)]() | [IBM]()
 | `04` |Soon| Coursera | [Intermediate Web and Front-End Development]() | [IBM]()
 | `05` |Soon| Coursera | [Front-End Development Capstone Project]() | [IBM]()
-| `06` |Soon| Coursera | [IBM Front-End Developer Professional Certificate]() | [IBM]()
+| `06` |Soon|  | [CompTIA Network+]() | [NTUC LearningHub]()
+| `07` |Soon|  | [CompTIA Linux+]() | [NTUC LearningHub]()
+| `08` |Soon|  | [CompTIA Security+ ]() | [NTUC LearningHub]()
+| `09` |Soon|  | [AWS Cloud Practitioner Essentials]() | [NTUC LearningHub]()
+| `10` |Soon|  | [System Operations on AWS]() | [NTUC LearningHub]()
+| `11` |Soon|  | [Microsoft Azure Fundamentals]() | [NTUC LearningHub]()
+| `12` |Soon| NTUC LearningHub | [Microsoft Certified Azure Adminstrator]() | [Microsoft Azure]()
+| `13` |Soon| NTUC LearningHub | [AWS Certified Solutions Architect – Associate]() | [AWS]()
+| `14` |Soon| NTUC LearningHub | [AWS SysOps Administrator – Associate]() | [AWS]()
+
+
+
+
+
 
 
 
