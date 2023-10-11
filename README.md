@@ -36,11 +36,11 @@ ___
 
 |No. | Status  | Platform | Name | Course provider
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| `02` |Soon| Coursera | [Developing Front-End Apps with React]() | [IBM]()
-| `03` |Soon| Coursera | [Designing User Interfaces and Experiences (UI/UX)]() | [IBM]()
-| `04` |Soon| Coursera | [Intermediate Web and Front-End Development]() | [IBM]()
-| `05` |Soon| Coursera | [Front-End Development Capstone Project]() | [IBM]()
-| `06` |Soon| Coursera | [Front-End Development Capstone Project]() | [IBM]()
+| `21` |Soon| Coursera | [Developing Front-End Apps with React]() | [IBM]()
+| `22` |Soon| Coursera | [Designing User Interfaces and Experiences (UI/UX)]() | [IBM]()
+| `23` |Soon| Coursera | [Intermediate Web and Front-End Development]() | [IBM]()
+| `24` |Soon| Coursera | [Front-End Development Capstone Project]() | [IBM]()
+| `25` |Soon| Coursera | [Front-End Development Certificate]() | [IBM]()
 | `07` |Soon|  | [CompTIA Network+]() | [NTUC LearningHub]()
 | `08` |Soon|  | [CompTIA Linux+]() | [NTUC LearningHub]()
 | `09` |Soon|  | [CompTIA Security+ ]() | [NTUC LearningHub]()
