@@ -24,6 +24,7 @@
 | `17` |Completed| Coursera | [Introduction to Software Engineering with Honors](https://www.coursera.org/account/accomplishments/verify/9GJ2VLN6FS2W) | [IBM](https://github.com/BasZeroCode/My-Certificates/blob/main/IBM%20Front-End%20Developer/Introduction%20to%20Software%20Engineering.pdf)
 | `18` |Completed| Coursera | [Introduction to Web Development with HTML, CSS, JavaScript](https://www.coursera.org/account/accomplishments/verify/FESNCHVWTP88) | [IBM](https://github.com/BasZeroCode/My-Certificates/blob/main/IBM%20Front-End%20Developer/Introduction%20to%20Web%20Development%20with%20HTML%2C%20CSS%2C.pdf)
 | `19` |Completed| Coursera | [Getting Started with Git and GitHub](https://www.coursera.org/account/accomplishments/verify/37QDR7J78Y7P) | [IBM](https://github.com/BasZeroCode/My-Certificates/blob/main/IBM%20Front-End%20Developer/Getting%20Started%20with%20Git%20and%20GitHub.pdf)
+| `20` |Completed| Coursera | [Developing Cloud Native Applications](https://www.coursera.org/account/accomplishments/verify/SEYNUQUGV8YS) | [IBM](https://github.com/BasZeroCode/My-Certificates/blob/main/IBM%20Front-End%20Developer/Developing%20Cloud%20Native%20Applications.pdf)
 | `24` |Completed| LinkedIn Learning | [Introduction to Career Skills in Software Development](https://www.linkedin.com/learning/certificates/b2ca9190d076938b96ce202e252713b9bb3c296689ad5550132f4e6c682dc68c?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3Bb0OulbKsQ5GlOGhEJGT3Bw%3D%3D) | [Microsoft](https://github.com/BasZeroCode/My-Certificates/blob/main/LinkedIn%20Learning/Certificate%20Of%20Completion%20Introduction%20to%20Career%20Skills%20in%20Software%20Development.pdf)
 | `25` |Completed| LinkedIn Learning | [Programming Foundations: Fundamentals](https://www.linkedin.com/learning/certificates/2ae31701175e1bf0b372295197b9fe625e8e563bfbb76f0c541a1a521aebfce4?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B9Yyo5c5mRxyR3jlMyVrksg%3D%3D) | [Microsoft](https://github.com/BasZeroCode/My-Certificates/blob/main/LinkedIn%20Learning/Certificate%20Of%20Completion%20Programming%20Foundations%20Fundamentals.pdf)
 | `26` |Completed| LinkedIn Learning | [Programming Foundations: Beyond the Fundamentals](https://www.linkedin.com/learning/certificates/b5024d3e98856dd71cd62aa110d45f496b8637bf7d1bdbbbf2b7c90b40ef0013?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B9Yyo5c5mRxyR3jlMyVrksg%3D%3D) | [Microsoft](https://github.com/BasZeroCode/My-Certificates/blob/main/LinkedIn%20Learning/Certificate%20Of%20Completion%20Programming%20Foundations%20Beyond%20the%20Fundamentals.pdf)
@@ -35,7 +36,6 @@ ___
 
 |No. | Status  | Platform | Name | Course provider
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| `01` |Soon| Coursera | [Developing Cloud Native Applications]() | [IBM]()
 | `02` |Soon| Coursera | [Developing Front-End Apps with React]() | [IBM]()
 | `03` |Soon| Coursera | [Designing User Interfaces and Experiences (UI/UX)]() | [IBM]()
 | `04` |Soon| Coursera | [Intermediate Web and Front-End Development]() | [IBM]()
